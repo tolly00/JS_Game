@@ -1,0 +1,18 @@
+
+.container{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+}
+.section{
+    background-color: gray;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 50%;
+}
+.gamespace{
+    background-color:yellow;
+}
