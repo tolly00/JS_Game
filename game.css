@@ -5,7 +5,14 @@
     margin: auto;
 }
 .section{
+    padding: 15px;
     background-color: gray;
+}
+.btn{
+    background-color: lightseagreen;
+}
+.score{
+    float: right;
 }
 .circle{
     width: 50px;
@@ -15,4 +22,6 @@
 }
 .gamespace{
     background-color:yellow;
+    width: 400px;
+    height: 500px;
 }
